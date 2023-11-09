@@ -13,3 +13,9 @@
 </strong>
 
 의 경우로 labeling하여 학습
+
+
+```
+python -m uvicorn main:app --reload --host=[host ip] --port=[port number]
+```
+위 명령어로 실행
